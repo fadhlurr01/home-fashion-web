@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Toqoku",
+    "url": "https://toqoku.vercel.app/",
+    "cat": "modest",
+    "desc": "Etalase busana muslimah yang hangat dan bersahaja, dibangun untuk membawa kesan anggun pada setiap koleksi hijab."
+  },
+  {
+    "name": "Shopuu",
+    "url": "https://shopuu.vercel.app/",
+    "cat": "luxury",
+    "desc": "Toko bergaya butik dengan nuansa mewah dan elegan, dirancang untuk menyajikan koleksi mode kelas premium."
+  },
+  {
+    "name": "Noctis District",
+    "url": "https://noctis-district.vercel.app/",
+    "cat": "street",
+    "desc": "Template streetwear berkarakter kota — gelap, berani, dan penuh gaya untuk brand kasual muda."
+  },
+  {
+    "name": "Formera",
+    "url": "https://formera-nu.vercel.app/",
+    "cat": "uniform",
+    "desc": "Solusi web seragam dan workwear yang rapi, tegas, dan mudah diakses untuk institusi profesional."
+  },
+  {
+    "name": "Senara Ecru",
+    "url": "https://senara-ecru.vercel.app/",
+    "cat": "traditional",
+    "desc": "Wajah digital tenun dan busana tradisional bernuansa ecru, menghadirkan warisan dalam kemasan modern."
+  },
+  {
+    "name": "Kinet",
+    "url": "https://kinet-jet.vercel.app/",
+    "cat": "active",
+    "desc": "Tampilan sporty yang dinamis untuk brand activewear, penuh energi dan siap menggerakkan komunitas olahraga."
+  },
+  {
+    "name": "Lumi Little",
+    "url": "https://lumi-little.vercel.app/",
+    "cat": "kids",
+    "desc": "Desain ceria dan lembut untuk toko pakaian anak & bayi, dengan sentuhan hangat yang menyenangkan."
+  },
+  {
+    "name": "Varen Shop",
+    "url": "https://varen-shop.vercel.app/",
+    "cat": "accessory",
+    "desc": "Katalog sepatu, tas, dan aksesori yang bersih serta rapi, menonjolkan detail setiap produk."
+  },
+  {
+    "name": "Desert Indol",
+    "url": "https://desert-indol.vercel.app/",
+    "cat": "modest",
+    "desc": "Nuansa gurun yang tenang untuk busana muslimah modern, menghadirkan ketenangan pada setiap halaman."
+  },
+  {
+    "name": "Nayla",
+    "url": "https://nayl-a.vercel.app/",
+    "cat": "luxury",
+    "desc": "Tampilan butik yang anggun dengan tipografi tegas dan palet netral untuk brand fashion premium."
+  },
+  {
+    "name": "Aurel",
+    "url": "https://aurel-paper-exi8.vercel.app/",
+    "cat": "street",
+    "desc": "Koleksi kasual dengan tata letak editorial yang santai namun tetap terarah untuk gaya jalanan."
+  },
+  {
+    "name": "Uniform & Workwear",
+    "url": "https://uniform-and-workwear-htaf.bolt.host",
+    "cat": "uniform",
+    "desc": "Template seragam dan pakaian kerja yang terstruktur, mencerminkan profesionalisme dan ketertiban."
+  },
+  {
+    "name": "Nivara",
+    "url": "https://nivara-kappa-nine.vercel.app/",
+    "cat": "traditional",
+    "desc": "Busana etnik dan tradisional yang disajikan dengan palet lembut serta cerita budaya yang kuat."
+  },
+  {
+    "name": "Kinetix",
+    "url": "https://kinetix-fawn.vercel.app/",
+    "cat": "active",
+    "desc": "Website activewear yang enerjik dengan tata letak berani untuk menampilkan koleksi olahraga."
+  },
+  {
+    "name": "Olli Shop",
+    "url": "https://olli-shop.vercel.app/",
+    "cat": "kids",
+    "desc": "Toko pakaian anak yang imut dan penuh warna, dirancang agar para orang tua betah berbelanja."
+  },
+  {
+    "name": "Auren Shop",
+    "url": "https://auren-shoopp.vercel.app/",
+    "cat": "accessory",
+    "desc": "Katalog aksesori mode yang mewah dan terkurasi, menonjolkan kualitas setiap detail produk."
+  },
+  {
+    "name": "Zaynora",
+    "url": "https://zaynora.vercel.app/",
+    "cat": "modest",
+    "desc": "Busana muslimah elegan dengan layout feminin dan bersih, cocok untuk brand modest premium."
+  },
+  {
+    "name": "Lune Lovat",
+    "url": "https://lune-lovat.vercel.app/",
+    "cat": "luxury",
+    "desc": "Butik mode dengan atmosfer yang misterius dan mewah, sempurna untuk koleksi eksklusif."
+  },
+  {
+    "name": "Monolith House",
+    "url": "https://monolith-house.vercel.app/",
+    "cat": "street",
+    "desc": "Gaya streetwear monolitik dan industrial untuk brand yang ingin tampil beda dan kuat."
+  },
+  {
+    "name": "Nayla Modest",
+    "url": "https://nayl-a.vercel.app/",
+    "cat": "modest",
+    "desc": "Koleksi busana muslimah yang anggun dengan grid editorial sederhana yang mudah dijelajahi."
+  },
+  {
+    "name": "Veloria Stage",
+    "url": "https://veloria-stage.vercel.app/",
+    "cat": "luxury",
+    "desc": "Panggung digital untuk butik luxury, menampilkan koleksi seperti di atas catwalk."
+  },
+  {
+    "name": "Kinetic City",
+    "url": "https://kinetic-city.vercel.app/",
+    "cat": "street",
+    "desc": "Energi perkotaan dalam balutan streetwear — dinamis dan penuh karakter untuk brand kasual."
+  },
+  {
+    "name": "Vesrya",
+    "url": "https://vesrya.vercel.app/",
+    "cat": "modest",
+    "desc": "Sentuhan modern untuk busana muslimah — bersih, feminin, dan memanjakan mata."
+  },
+  {
+    "name": "Lusea Rosy",
+    "url": "https://lysea-rosy.vercel.app/",
+    "cat": "luxury",
+    "desc": "Butik dengan nuansa rosy yang romantis dan mewah untuk koleksi premium."
+  },
+  {
+    "name": "Atelier Murex",
+    "url": "https://atelier-three-murex.vercel.app/",
+    "cat": "street",
+    "desc": "Atelier streetwear dengan nuansa industrial dan motif tegas untuk label muda."
+  },
+  {
+    "name": "Muslim Fashion",
+    "url": "https://muslim-fashion-multi-dsiv.bolt.host",
+    "cat": "modest",
+    "desc": "Etalase lengkap busana muslim dengan navigasi yang rapi dan suasana yang menenangkan."
+  },
+  {
+    "name": "Maison Elan",
+    "url": "https://masion-elan.vercel.app/",
+    "cat": "luxury",
+    "desc": "Rumah mode dengan gerakan anggun, menghadirkan kemewahan butik dalam satu laman."
+  },
+  {
+    "name": "Raw Template",
+    "url": "https://raw-template.vercel.app/",
+    "cat": "street",
+    "desc": "Estetika mentah dan jujur untuk streetwear, menonjolkan keberanian brand muda."
+  },
+  {
+    "name": "Proguard",
+    "url": "https://proguard-puce.vercel.app/",
+    "cat": "uniform",
+    "desc": "Seragam dan perlengkapan kerja dengan tampilan aman, solid, dan profesional."
+  },
+  {
+    "name": "Busana Nusantara",
+    "url": "https://busana-nus.vercel.app/",
+    "cat": "traditional",
+    "desc": "Perayaan busana Nusantara — batik, tenun, dan songket dalam wajah digital modern."
+  },
+  {
+    "name": "Sports Fashion",
+    "url": "https://sports-fashion-multi-9s60.bolt.host",
+    "cat": "active",
+    "desc": "Tampilan olahraga yang dinamis dan atletis untuk brand activewear yang serius."
+  },
+  {
+    "name": "Baby One",
+    "url": "https://baby-one-lime.vercel.app/",
+    "cat": "kids",
+    "desc": "Perlengkapan dan pakaian bayi yang lembut, menenangkan, dan penuh kasih sayang."
+  },
+  {
+    "name": "Fashion Accessories",
+    "url": "https://fashion-accessories-xcnb.bolt.host",
+    "cat": "accessory",
+    "desc": "Pusat aksesori mode — dari tas hingga perhiasan — dalam katalog yang terorganisir."
+  },
+  {
+    "name": "Nusantara Lemon",
+    "url": "https://nusantara-lemon.vercel.app/",
+    "cat": "modest",
+    "desc": "Busana muslim dengan sentuhan segar dan cerah, modern tanpa kehilangan identitas."
+  },
+  {
+    "name": "Bardey Boutique",
+    "url": "https://bardey-boutique-dzt8.vercel.app/",
+    "cat": "luxury",
+    "desc": "Butik eksklusif dengan desain avant-garde untuk label fashion yang berani."
+  },
+  {
+    "name": "Crime Self",
+    "url": "https://crime-self.vercel.app/",
+    "cat": "street",
+    "desc": "Gaya streetwear pemberontak dengan tipografi mencolok untuk brand yang mencuri perhatian."
+  },
+  {
+    "name": "Fashion Workwear",
+    "url": "https://fashion-workwear-mul-h8oe.bolt.host",
+    "cat": "uniform",
+    "desc": "Katalog workwear yang bersih dan fungsional untuk kebutuhan seragam perusahaan."
+  },
+  {
+    "name": "Tenun Eosin",
+    "url": "https://tenun-eosin.vercel.app/",
+    "cat": "traditional",
+    "desc": "Keindahan tenun tradisional dengan palet modern yang lembut dan penuh cerita."
+  },
+  {
+    "name": "Kinetixx",
+    "url": "https://kinetixx-pi.vercel.app/",
+    "cat": "active",
+    "desc": "Activewear maskulin yang bertenaga, dirancang untuk menonjolkan performa."
+  },
+  {
+    "name": "Petti",
+    "url": "https://petti-theta.vercel.app/",
+    "cat": "kids",
+    "desc": "Pakaian anak yang menggemaskan dengan tata letak sederhana yang mudah dinavigasi."
+  },
+  {
+    "name": "Sculptura Adorn",
+    "url": "https://sculptura-adorn-edit.base44.app",
+    "cat": "accessory",
+    "desc": "Aksesori dan perhiasan yang dihadirkan seperti karya seni — elegan dan berkelas."
+  },
+  {
+    "name": "Silk Sanctuary",
+    "url": "https://silk-sanctuary-modest.base44.app",
+    "cat": "modest",
+    "desc": "Rumah tenang untuk busana muslimah premium, seperti sutra — halus dan berharga."
+  },
+  {
+    "name": "Urban Boutique Culture",
+    "url": "https://urban-boutiqeculture.base44.app",
+    "cat": "luxury",
+    "desc": "Budaya urban dalam balutan butik, memadukan kemewahan dengan kehidupan kota."
+  },
+  {
+    "name": "Template Streetwear",
+    "url": "https://template-streetwear.lovable.app",
+    "cat": "street",
+    "desc": "Template streetwear serbaguna dengan grid besar dan atmosfer kasual yang kuat."
+  },
+  {
+    "name": "HH Workwear",
+    "url": "https://hh-workwear.vercel.app/",
+    "cat": "uniform",
+    "desc": "Seragam kerja yang praktis dan tegas, siap untuk skala bisnis apa pun."
+  },
+  {
+    "name": "Nusa Bateeq",
+    "url": "https://nusa-bateeq.vercel.app/",
+    "cat": "traditional",
+    "desc": "Batik dalam wajah modern — situs elegan untuk brand pakaian tradisional."
+  },
+  {
+    "name": "Stripe Sports",
+    "url": "https://stripe-sports.vercel.app/",
+    "cat": "active",
+    "desc": "Activewear berirama dengan aksen garis dinamis untuk brand olahraga penuh semangat."
+  },
+  {
+    "name": "Petit Lyart",
+    "url": "https://petit-lyart.vercel.app/",
+    "cat": "kids",
+    "desc": "Busana anak dengan estetika kecil yang manis dan hangat, penuh kehangatan."
+  },
+  {
+    "name": "Maison One",
+    "url": "https://masion-one.vercel.app/",
+    "cat": "accessory",
+    "desc": "Satu rumah untuk aksesori terkurasi — rapi, mewah, dan mudah dijelajahi."
+  },
+  {
+    "name": "Noor Muslim",
+    "url": "https://noor-muslim-fashion.vercel.app/",
+    "cat": "modest",
+    "desc": "Cahaya untuk busana muslimah — desain bersih, terang, dan penuh ketenangan."
+  },
+  {
+    "name": "Maison Lila",
+    "url": "https://maison-lila.lovable.app",
+    "cat": "luxury",
+    "desc": "Butik dengan nuansa lilac yang romantis, menawarkan pengalaman berbelanja premium."
+  },
+  {
+    "name": "Represent Streetwear",
+    "url": "https://represent-streetwear.vercel.app/",
+    "cat": "street",
+    "desc": "Mewakili generasi baru streetwear dengan visual tegas dan penuh kepercayaan diri."
+  },
+  {
+    "name": "Arsitek Work Core",
+    "url": "https://arsitek-work-core.base44.app",
+    "cat": "uniform",
+    "desc": "Seragam kerja dengan presisi arsitektural — solid, terstruktur, dan berkelas."
+  },
+  {
+    "name": "Aura",
+    "url": "https://aura-psi-two.vercel.app/",
+    "cat": "modest",
+    "desc": "Aura lembut untuk busana muslimah, memancarkan ketenangan dan keanggunan."
+  },
+  {
+    "name": "April Edition",
+    "url": "https://april-edition.vercel.app/",
+    "cat": "luxury",
+    "desc": "Edisi khusus butik bulan April — segar, mewah, dan penuh gaya."
+  },
+  {
+    "name": "Proclad",
+    "url": "https://proclad.vercel.app/",
+    "cat": "uniform",
+    "desc": "Seragam dan workwear yang kokoh dengan kesan industrial — siap untuk tim dan institusi mana pun."
+  },
+  {
+    "name": "Kala Svarna",
+    "url": "https://kala-svarna.vercel.app/",
+    "cat": "traditional",
+    "desc": "Perayaan batik dan busana tradisional bernuansa emas — warisan dalam kemasan mewah."
+  },
+  {
+    "name": "Kinetax",
+    "url": "https://kinetax.vercel.app/",
+    "cat": "active",
+    "desc": "Tampilan activewear yang energik dan modern untuk brand olahraga yang penuh gerak."
+  },
+  {
+    "name": "Tiny Tangram",
+    "url": "https://tiny-tangram.vercel.app/",
+    "cat": "kids",
+    "desc": "Permainan geometri dan warna untuk pakaian anak — imut, ceria, dan mudah dijelajahi."
+  },
+  {
+    "name": "Serisss",
+    "url": "https://serisss.vercel.app/",
+    "cat": "accessory",
+    "desc": "Katalog aksesori minimalis dengan karakter kuat, menonjolkan detail setiap produk."
+  },
+  {
+    "name": "Mami Memo",
+    "url": "https://mamimemo.vercel.app/",
+    "cat": "kids",
+    "desc": "Toko pakaian anak yang hangat dan ramah keluarga dengan navigasi sederhana."
+  },
+  {
+    "name": "Serissusola",
+    "url": "https://serissusola.vercel.app/",
+    "cat": "accessory",
+    "desc": "Aksesori bernuansa sunny yang ceria — katalog produk segar, ringan, dan terang."
+  },
+  {
+    "name": "Kala Wastra",
+    "url": "https://kala-wastra.vercel.app/",
+    "cat": "traditional",
+    "desc": "Keindahan wastra Nusantara dalam wajah digital — tenun, batik, dan songket yang hidup."
+  },
+  {
+    "name": "Armour ID",
+    "url": "https://armour-id-snowy.vercel.app/",
+    "cat": "active",
+    "desc": "Activewear berkarakter kuat dengan tampilan kokoh — untuk atlet dan komunitas olahraga."
+  },
+  {
+    "name": "Libby Baby",
+    "url": "https://libby-baby.vercel.app/",
+    "cat": "kids",
+    "desc": "Busana dan perlengkapan bayi yang lembut serta menenangkan, penuh kasih sayang."
+  },
+  {
+    "name": "Etoile",
+    "url": "https://etoile-zeta.vercel.app/",
+    "cat": "accessory",
+    "desc": "Aksesori yang berkilau seperti bintang — elegan, halus, dan berkelas."
+  },
+  {
+    "name": "VogueLine",
+    "url": "https://voguilene.vercel.app/",
+    "cat": "luxury",
+    "desc": "Butik minimalis premium dengan koleksi musim gugur — garis bersih, palet hangat, dan kesan elegan yang menenangkan."
+  },
+  {
+    "name": "Élan Atelier",
+    "url": "https://elan-iota-five.vercel.app/",
+    "cat": "street",
+    "desc": "Arsitektur dekonstruksi busana modern — hoodie cropped kuning dan celana wide-leg yang berani, penuh karakter urban."
+  },
+  {
+    "name": "Vélera Atelier",
+    "url": "https://velora-tau-lac.vercel.app/",
+    "cat": "luxury",
+    "desc": "Atelier ready-to-wear dari sutra dan wol — kemewahan tenang dengan siluet yang halus dan berkelas."
+  },
+  {
+    "name": "Modaverse",
+    "url": "https://modaverse.vercel.app/",
+    "cat": "luxury",
+    "desc": "Dunia haute couture dalam satu laman — dramatis, mewah, dan penuh ambisi artistik."
+  },
+  {
+    "name": "Moda Atelier",
+    "url": "https://atelier-rho-six.vercel.app/",
+    "cat": "luxury",
+    "desc": "Nouveau minimalisme untuk butik modern — reduksi elegan, tipografi tegas, dan palet yang bersih."
+  },
+  {
+    "name": "Lumina Atelier",
+    "url": "https://lumina-lake-beta.vercel.app/",
+    "cat": "luxury",
+    "desc": "Rumah mode yang bercahaya — kemewahan lembut dengan sentuhan cahaya pada setiap detail."
+  },
+  {
+    "name": "Atelier Élégance",
+    "url": "https://atelier-elegent.vercel.app/",
+    "cat": "luxury",
+    "desc": "Haute couture dengan keanggunan klasik — rapi, mewah, dan sempurna untuk label premium."
+  },
+  {
+    "name": "Moda Élan",
+    "url": "https://modelan.vercel.app/",
+    "cat": "luxury",
+    "desc": "Gerakan mode yang luwes — butik dengan keseimbangan antara siluet modern dan nuansa atelier."
+  },
+  {
+    "name": "Aura Atelier",
+    "url": "https://aura-rose-kappa.vercel.app/",
+    "cat": "modest",
+    "desc": "Atelier busana muslimah yang hangat — model berhijab memancarkan ketenangan dan keanggunan."
+  },
+  {
+    "name": "Lumen Atelier",
+    "url": "https://lumen-atelier-rho.vercel.app/",
+    "cat": "luxury",
+    "desc": "The Art of Modern Sartorial — atelier gelap dan dramatis untuk koleksi ready-to-wear eksklusif."
+  },
+  {
+    "name": "Aura Moderne",
+    "url": "https://aura-ruddy-nu.vercel.app/",
+    "cat": "luxury",
+    "desc": "Atelier modern dengan gaun sutra velvet — kemewahan dalam palet lembut dan tekstur mewah."
+  },
+  {
+    "name": "Vélera Fashion",
+    "url": "https://velora-flax-five.vercel.app/",
+    "cat": "luxury",
+    "desc": "Label fashion premium — elegansi minimalis dengan kualitas tanpa kompromi."
+  },
+  {
+    "name": "Valen & Co.",
+    "url": "https://valen-co.vercel.app/",
+    "cat": "luxury",
+    "desc": "Sleek atelier & tailoring — kemewahan siluet modern dengan sentuhan Nusantara."
+  },
+  {
+    "name": "Kala Moda",
+    "url": "https://kala-moda.vercel.app/",
+    "cat": "luxury",
+    "desc": "Atelier & studio dengan kapsul musim gugur — siluet tailored dan sentuhan minimalis yang anggun."
+  },
+  {
+    "name": "Aura Studio Jakarta",
+    "url": "https://aura-jkt.vercel.app/",
+    "cat": "luxury",
+    "desc": "Studio mode Jakarta — elegan kontemporer dalam siluet artistik dengan palet hangat khas atelier."
+  }
+]

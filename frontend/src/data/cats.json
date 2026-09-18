@@ -1,0 +1,50 @@
+[
+  {
+    "key": "modest",
+    "label": "Muslimah & Modest Wear",
+    "short": "Modest Wear",
+    "img": "https://user.uploads.dev/file/8193466b467a1f9a98ec665f2166bad3.jpg"
+  },
+  {
+    "key": "luxury",
+    "label": "Boutique Luxury",
+    "short": "Boutique",
+    "img": "https://user.uploads.dev/file/502d13f78c8aeee0b3d707bfea8f8bc5.jpg"
+  },
+  {
+    "key": "street",
+    "label": "Casual & Streetwear",
+    "short": "Streetwear",
+    "img": "https://user.uploads.dev/file/ac29253ba1b9d20a6352a918520bde47.jpg"
+  },
+  {
+    "key": "uniform",
+    "label": "Uniforms & Workwear",
+    "short": "Workwear",
+    "img": "https://user.uploads.dev/file/57347ec5f886735ece115b483b5fac4a.jpg"
+  },
+  {
+    "key": "traditional",
+    "label": "Traditional & Ethnic Wear",
+    "short": "Traditional",
+    "img": "https://user.uploads.dev/file/291d61bf3b030887cf850fb1c33fdd0c.jpg"
+  },
+  {
+    "key": "active",
+    "label": "Activewear Sports",
+    "short": "Activewear",
+    "img": "https://user.uploads.dev/file/b0523d2962e48a71ae186e9a41e461fe.jpg"
+  },
+  {
+    "key": "kids",
+    "label": "Kids & Baby",
+    "short": "Kids & Baby",
+    "img": "https://user.uploads.dev/file/7497eb8f2b8447b308b0c8e7836079e2.jpg"
+  },
+  {
+    "key": "accessory",
+    "label": "Footwear, Bags & Accessories",
+    "short": "Accessories",
+    "img": "https://user.uploads.dev/file/7498c4868f25291fa2ab207bc54c1fcb.jpg"
+  }
+]
